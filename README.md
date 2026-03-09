@@ -18,6 +18,38 @@
 
 ---
 
+---
+
+# 💻 3D Coding Animation
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450"/>
+
+</p>
+
+<p align="center">
+🚀 Building modern web applications and learning new technologies every day.
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jalak-palan-726597367/">
+<img src="https://img.shields.io/badge/LinkedIn-Jalak%20Palan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jalak.a.palan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-jalak.a.palan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 👨‍💻 About Me
 
 - 💻 Full Stack Developer  
