@@ -64,20 +64,53 @@
 
 ---
 
+
 # 🏆 My Certificates
 
 <p align="center">
 
-<img src="certificates/jaipur Cybrathon_page-0001.jpg" width="400"/>
-<img src="certificates/Jalak Palan_page-0001.jpg" width="400"/>
+<img src="odoo X Adani_page-0001.jpg" width="420"/>
 
 </p>
 
 <p align="center">
+<b>Odoo X Adani University Hackathon 2026</b>
+</p>
 
-<img src="certificates/K Hacks 3.0_page-0001.jpg" width="400"/>
-<img src="certificates/odoo X Adani_page-0001.jpg" width="400"/>
+<br>
 
+<p align="center">
+
+<img src="jaipur Cybrathon_page-0001.jpg" width="420"/>
+
+</p>
+
+<p align="center">
+<b>Jaipur Cybrathon 2025 – Suresh Gyan Vihar University</b>
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="K Hacks 3.0_page-0001.jpg" width="420"/>
+
+</p>
+
+<p align="center">
+<b>K Hacks 3.0 – Anna University Chennai</b>
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="Jalak Palan_page-0001.jpg" width="420"/>
+
+</p>
+
+<p align="center">
+<b>OpenPools Doppelganger Build Sprint</b>
 </p>
 
 ---
