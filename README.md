@@ -68,15 +68,15 @@
 
 <p align="center">
 
-<img src="certificates/cybrathon2025.png" width="400"/>
-<img src="certificates/openpools_doppelganger.png" width="400"/>
+<img src="certificates/jaipur Cybrathon_page-0001.jpg" width="400"/>
+<img src="certificates/Jalak Palan_page-0001.jpg" width="400"/>
 
 </p>
 
 <p align="center">
 
-<img src="certificates/khacks3.png" width="400"/>
-<img src="certificates/adani_odoo_hackathon.png" width="400"/>
+<img src="certificates/K Hacks 3.0_page-0001.jpg" width="400"/>
+<img src="certificates/odoo X Adani_page-0001.jpg" width="400"/>
 
 </p>
 
