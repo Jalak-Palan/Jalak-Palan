@@ -124,18 +124,14 @@
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/jalak-palan-726597367/">
+<img src="https://img.shields.io/badge/LinkedIn-Jalak%20Palan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:jalak.a.palan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-jalak.a.palan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
