@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="Jalak%20Palan_page-0001.jpg" width="900"/>
+<img src="Stylized Jalak Palan.png" width="900"/>
 
 </p>
 
