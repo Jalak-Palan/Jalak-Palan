@@ -1,8 +1,12 @@
 <p align="center">
 
-<video src="./My-Name20video.mp4" width="800" controls autoplay loop muted></video>
+<a href="https://app.pixverse.ai/home?detail=video&id=391158057636040&platform=web">
 
-</p>>
+<img src="https://img.shields.io/badge/▶%20Watch%20My%20Intro%20Video-00F7FF?style=for-the-badge&logo=github" height="60"/>
+
+</a>
+
+</p>
 
 ---
 
