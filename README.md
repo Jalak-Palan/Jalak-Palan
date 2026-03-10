@@ -1,6 +1,6 @@
 <p align="center">
 
-<video src="./My-Name%20video.mp4" width="800" controls autoplay loop muted></video>
+<video src="./My-Name20video.mp4" width="800" controls autoplay loop muted></video>
 
 </p>>
 
