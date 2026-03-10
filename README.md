@@ -1,12 +1,8 @@
 <p align="center">
 
-<a href="https://github.com/user-attachments/assets/YOUR_VIDEO_ID">
+<video src="./My-Name%20video.mp4" width="800" controls autoplay loop muted></video>
 
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="800"/>
-
-</a>
-
-</p>
+</p>>
 
 ---
 
