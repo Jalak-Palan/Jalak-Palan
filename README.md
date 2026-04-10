@@ -80,8 +80,34 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<!--Connect-->
+<h2 align="center">🤝 &nbsp;Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jalak-palan-726597367/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/Jalak_Palan" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter_(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@JALAKPALAN-q8i" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/m1Xyd1Iqw0/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+</div>
+
+<br/>
+
 <!--Tech Stack-->
 <h2 align="center">⚡ &nbsp;Tech Arsenal</h2>
+
 
 <div align="center">
 
@@ -209,31 +235,6 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!--Connect-->
-<h2 align="center">🤝 &nbsp;Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jalak-palan-726597367/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://x.com/Jalak_Palan" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter_(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@JALAKPALAN-q8i" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/m1Xyd1Iqw0/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-</div>
-
-<br/>
 
 <!--Footer-->
 <div align="center">
